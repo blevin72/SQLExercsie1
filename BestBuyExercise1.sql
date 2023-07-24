@@ -1,5 +1,5 @@
 -- find all products
-SELECT Name 
+SELECT * 
 FROM products;
 
 -- find all products that cost $1400
